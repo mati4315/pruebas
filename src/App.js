@@ -10,7 +10,7 @@ function App() {
         <p>
           est es texto de preeba <b>va abajo</b> 
         </p>
-        <h6>este es un H6</h6>
+        <h5>este es un H6</h5>
         <a
           className="App-link"
           href="https://reactjs.org"
